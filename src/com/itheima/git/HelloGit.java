@@ -25,5 +25,9 @@ public class HelloGit {
         }
         System.out.println("111111111");
 
+        for (int i = 10; i >0 ; i--) {
+
+            System.out.println("hello");
+        }
     }
 }
